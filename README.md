@@ -4,9 +4,14 @@
 
 This is an xCode sticker pack for iOS featuring minimalistic Pokemon sketches that where found on /r/pokemonogo of the first 151 Pokemon. Enjoy the sensation of Pokemon stickers by side loading the app in xCode.
 
+
+### Image source
+
+The images were [posted to Imgur by CrystalMetheny](http://imgur.com/gallery/qVsnO).
+
 ### Availability
 
-The sticker pack is currently under review in the app store under "Flat Pocket Creatures". 
+The sticker pack is currently under review in the app store under "Flat Pocket Creatures".
 
 ![AutoXOA Install Menu](https://raw.githubusercontent.com/hackmods/PokemonFlatStickers/master/images/screenshot.jpg)
 
