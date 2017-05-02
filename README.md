@@ -1,4 +1,6 @@
 # PokemonFlat Sticker
+[![Language](https://img.shields.io/badge/language-Swift%203-orange.svg)](https://swift.org)
+[![Platforms](https://img.shields.io/badge/platform-ios-lightgrey.svg)](https://swift.org/about/#platform-support)
 
 ### iOS Sticker Pack
 
