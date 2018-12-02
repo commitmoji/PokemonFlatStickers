@@ -1,4 +1,4 @@
-# PokemonFlat Sticker
+# Pokemon Flat Stickers
 
 ### iOS Sticker Pack
 
